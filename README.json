@@ -783,7 +783,7 @@
             "last_commit": "2026-07-13T16:40:58Z",
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4462
+            "stars": 4464
           }
         },
         {
@@ -797,7 +797,7 @@
             "last_commit": "2024-03-24T06:38:34Z",
             "owner": "DataArcTech",
             "repo": "ToG",
-            "stars": 656
+            "stars": 657
           }
         },
         {
@@ -1069,7 +1069,7 @@
             "last_commit": "2023-07-14T08:54:26Z",
             "owner": "ChnQ",
             "repo": "LLM4Mol",
-            "stars": 39
+            "stars": 38
           }
         },
         {
@@ -1103,7 +1103,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3940
+            "stars": 3942
           }
         },
         {
@@ -1117,7 +1117,7 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2582
+            "stars": 2584
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2025-07-01T17:41:28Z",
             "owner": "JayLZhou",
             "repo": "GraphRAG",
-            "stars": 1537
+            "stars": 1538
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 33988
+            "stars": 33996
           }
         },
         {
@@ -1325,7 +1325,7 @@
             "last_commit": "2026-02-05T10:39:09Z",
             "owner": "metauto-ai",
             "repo": "GPTSwarm",
-            "stars": 1034
+            "stars": 1035
           }
         },
         {
@@ -1421,7 +1421,7 @@
             "last_commit": "2026-08-13T09:15:47Z",
             "owner": "modelscope",
             "repo": "ms-agent",
-            "stars": 4359
+            "stars": 4363
           }
         },
         {
@@ -1539,7 +1539,7 @@
             "last_commit": "2026-07-31T05:51:27Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24006
+            "stars": 24010
           }
         },
         {
@@ -1571,7 +1571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:47:29.691Z",
+    "last_updated": "2026-08-14T09:43:45.284Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
     "enhanced_repository": "enhansome/enhansome-Awesome-Graph-LLM",
