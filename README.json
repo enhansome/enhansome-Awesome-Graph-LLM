@@ -42,7 +42,7 @@
             "last_commit": "2025-03-15T07:50:50Z",
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
-            "stars": 369
+            "stars": 370
           }
         },
         {
@@ -75,20 +75,6 @@
         },
         {
           "node_type": "item",
-          "title": "(NeurIPS'24 D&B) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-10-28T04:41:04Z",
-            "owner": "NineAbyss",
-            "repo": "GLBench",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
           "title": "(arXiv 2025.02) A Comprehensive Analysis on LLM-based Node Classification Algorithms [paper",
           "description": "] [code] [project papge]",
           "children": [],
@@ -98,6 +84,20 @@
             "last_commit": "2025-07-01T15:06:19Z",
             "owner": "WxxShirley",
             "repo": "LLMNodeBed",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(NeurIPS'24 D&B) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-28T04:41:04Z",
+            "owner": "NineAbyss",
+            "repo": "GLBench",
             "stars": 73
           }
         },
@@ -679,7 +679,7 @@
             "last_commit": "2025-07-01T15:06:19Z",
             "owner": "WxxShirley",
             "repo": "LLMNodeBed",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -1103,7 +1103,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3944
+            "stars": 3946
           }
         },
         {
@@ -1117,7 +1117,7 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2590
+            "stars": 2592
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2025-07-01T17:41:28Z",
             "owner": "JayLZhou",
             "repo": "GraphRAG",
-            "stars": 1538
+            "stars": 1537
           }
         },
         {
@@ -1145,7 +1145,7 @@
             "last_commit": "2025-03-30T17:41:58Z",
             "owner": "Graph-RAG",
             "repo": "GraphRAG",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "last_commit": "2025-03-19T11:36:50Z",
             "owner": "XiaoxinHe",
             "repo": "G-Retriever",
-            "stars": 550
+            "stars": 549
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34004
+            "stars": 34009
           }
         },
         {
@@ -1421,7 +1421,7 @@
             "last_commit": "2026-08-13T09:15:47Z",
             "owner": "modelscope",
             "repo": "ms-agent",
-            "stars": 4363
+            "stars": 4364
           }
         },
         {
@@ -1539,7 +1539,7 @@
             "last_commit": "2026-07-31T05:51:27Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24011
+            "stars": 24012
           }
         },
         {
@@ -1571,7 +1571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:03:26.428Z",
+    "last_updated": "2026-08-17T09:23:57.670Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
     "enhanced_repository": "enhansome/enhansome-Awesome-Graph-LLM",
