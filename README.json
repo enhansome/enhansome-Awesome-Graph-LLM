@@ -835,7 +835,7 @@
                 "last_commit": "2026-07-13T16:40:58Z",
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4466
+                "stars": 4465
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2025-03-05T11:37:00Z",
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 532
+                "stars": 533
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34035
+                "stars": 34042
               }
             },
             {
@@ -1676,8 +1676,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:16:29.018Z",
+    "last_updated": "2026-08-19T12:08:27.603Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
+    "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
     "enhanced_repository": "enhansome/enhansome-Awesome-Graph-LLM",
     "enhanced_repository_description": null,
