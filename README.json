@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672673877,
             "language": null,
             "last_commit": "2025-03-02T01:40:10Z",
             "owner": "PeterGriffinJin",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 720092821,
             "language": null,
             "last_commit": "2025-03-21T06:59:56Z",
             "owner": "yhLeeee",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799047455,
             "language": null,
             "last_commit": "2025-03-15T07:50:50Z",
             "owner": "HKUDS",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 306731429,
             "language": null,
             "last_commit": "2023-09-19T03:57:31Z",
             "owner": "google-research-datasets",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641814438,
             "language": "Python",
             "last_commit": "2024-08-20T13:39:16Z",
             "owner": "Arthur-Heng",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854574143,
             "language": "Python",
             "last_commit": "2025-07-01T15:06:19Z",
             "owner": "WxxShirley",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809284444,
             "language": "Jupyter Notebook",
             "last_commit": "2024-10-28T04:41:04Z",
             "owner": "NineAbyss",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791197329,
             "language": "Python",
             "last_commit": "2025-01-15T02:32:13Z",
             "owner": "Zhuofeng-Li",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807820928,
             "language": "Python",
             "last_commit": "2024-11-06T13:54:38Z",
             "owner": "zjs123",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864812234,
             "language": "Python",
             "last_commit": "2025-02-20T03:01:00Z",
             "owner": "BUPT-GAMMA",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811098845,
             "language": "Jupyter Notebook",
             "last_commit": "2025-03-02T12:45:44Z",
             "owner": "squareRoot3",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932162376,
             "language": "Python",
             "last_commit": "2025-02-24T02:51:28Z",
             "owner": "JensenYX",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 898399845,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-05T11:44:49Z",
             "owner": "ernlavr",
@@ -189,7 +202,7 @@
       "title": "Datasets, Benchmarks & Surveys"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680173591,
             "language": "Python",
             "last_commit": "2026-03-24T17:26:16Z",
             "owner": "spcl",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641555976,
             "language": "Python",
             "last_commit": "2023-11-28T13:19:07Z",
             "owner": "RUCAIBox",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 757510299,
             "language": "Jupyter Notebook",
             "last_commit": "2024-12-24T14:07:44Z",
             "owner": "PeterGriffinJin",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643422032,
             "language": "Python",
             "last_commit": "2024-08-31T02:38:29Z",
             "owner": "Jiuzhouh",
@@ -251,7 +268,7 @@
       "title": "Prompting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 705126352,
             "language": "Python",
             "last_commit": "2024-06-25T13:27:00Z",
             "owner": "HKUDS",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 687683226,
             "language": "Python",
             "last_commit": "2025-03-13T14:21:20Z",
             "owner": "agiresearch",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698359032,
             "language": "Python",
             "last_commit": "2024-05-18T20:35:26Z",
             "owner": "LechengKong",
@@ -302,11 +322,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841247301,
             "language": "Python",
             "last_commit": "2024-09-19T06:58:25Z",
             "owner": "HKUDS",
             "repo": "AnyGraph",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756178667,
             "language": "Python",
             "last_commit": "2024-09-04T23:44:03Z",
             "owner": "VITA-Group",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 759393712,
             "language": "Python",
             "last_commit": "2024-06-05T14:43:13Z",
             "owner": "HKUDS",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 759278471,
             "language": "Python",
             "last_commit": "2024-08-27T06:22:29Z",
             "owner": "alibaba",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 741234199,
             "language": "Jupyter Notebook",
             "last_commit": "2024-07-29T13:55:56Z",
             "owner": "wjn1996",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804365806,
             "language": "Python",
             "last_commit": "2024-11-21T16:41:19Z",
             "owner": "W-rudder",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 824744597,
             "language": "Python",
             "last_commit": "2026-01-21T04:39:32Z",
             "owner": "JiaruiFeng",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811192795,
             "language": "Python",
             "last_commit": "2024-08-08T02:34:21Z",
             "owner": "NineAbyss",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816419888,
             "language": "Python",
             "last_commit": "2024-07-05T09:15:34Z",
             "owner": "NYUSHCS",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816419888,
             "language": "Python",
             "last_commit": "2024-07-05T09:15:34Z",
             "owner": "NYUSHCS",
@@ -439,7 +469,7 @@
       "title": "General Graph Model"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 695380570,
             "language": "Python",
             "last_commit": "2024-03-10T06:40:37Z",
             "owner": "lixinustc",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 741612840,
             "language": "Python",
             "last_commit": "2024-08-30T07:07:40Z",
             "owner": "Heidelberg-NLP",
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 704161380,
             "language": "Python",
             "last_commit": "2024-07-02T21:39:50Z",
             "owner": "minjiyoon",
@@ -490,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756656249,
             "language": "Python",
             "last_commit": "2025-11-25T06:27:00Z",
             "owner": "WEIYanbin1999",
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881147157,
             "language": "Python",
             "last_commit": "2025-10-30T03:12:10Z",
             "owner": "yihedeng9",
@@ -515,1018 +550,1096 @@
       "title": "Large Multimodal Models (LMMs)"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.04) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625763962,
+                "language": "Python",
+                "last_commit": "2023-09-04T10:06:18Z",
+                "owner": "jwzhanggy",
+                "repo": "Graph_Toolformer",
+                "stars": 250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.10) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702593387,
+                "language": "Python",
+                "last_commit": "2026-01-29T00:17:59Z",
+                "owner": "mistyreed63849",
+                "repo": "Graph-LLM",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(KDD'24) GraphWiz: An Instruction-Following Language Model for Graph Problems [paper",
+              "description": "][code][project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738025627,
+                "language": "Python",
+                "last_commit": "2024-12-24T13:34:50Z",
+                "owner": "Graph-Reasoner",
+                "repo": "Graph-Reasoning-LLM",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.10) GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 874582045,
+                "language": "Python",
+                "last_commit": "2025-03-28T07:40:32Z",
+                "owner": "BUPT-GAMMA",
+                "repo": "GraphTeam",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811098845,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-02T12:45:44Z",
+                "owner": "squareRoot3",
+                "repo": "GraphArena",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.10) GCoder: Improving Large Language Model for Generalized Graph Problem Solving [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872826860,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-11T08:39:48Z",
+                "owner": "Graph-Reasoner",
+                "repo": "GCoder",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.10) Are Large-Language Models Graph Algorithmic Reasoners? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716382082,
+                "language": "Python",
+                "last_commit": "2025-03-26T02:31:33Z",
+                "owner": "ataylor24",
+                "repo": "MAGMA",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Basic Graph Reasoning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.07) Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 664886106,
+                "language": "Python",
+                "last_commit": "2025-03-10T05:30:05Z",
+                "owner": "CurryTang",
+                "repo": "Graph-LLM",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'24) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577555357,
+                "language": "Python",
+                "last_commit": "2025-04-14T02:10:44Z",
+                "owner": "XiaoxinHe",
+                "repo": "TAPE",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.02) GraphEdit: Large Language Models for Graph Structure Learning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761024374,
+                "language": "Python",
+                "last_commit": "2024-06-24T12:47:40Z",
+                "owner": "HKUDS",
+                "repo": "GraphEdit",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.02) A Comprehensive Analysis on LLM-based Node Classification Algorithms [paper",
+              "description": "][code] [project papge]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 854574143,
+                "language": "Python",
+                "last_commit": "2025-07-01T15:06:19Z",
+                "owner": "WxxShirley",
+                "repo": "LLMNodeBed",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(IJCAI'24) Efficient Tuning and Inference for Large Language Models on Textual Graphs [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750632676,
+                "language": "Python",
+                "last_commit": "2024-06-24T10:55:20Z",
+                "owner": "ZhuYun97",
+                "repo": "ENGINE",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(TMLR'24) Can LLMs Effectively Leverage Graph Structural Information through Prompts, and Why? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 697597184,
+                "language": "Python",
+                "last_commit": "2023-10-03T00:20:02Z",
+                "owner": "TRAIS-Lab",
+                "repo": "LLM-Structured-Data",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.06) GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815635455,
+                "language": "Python",
+                "last_commit": "2024-07-05T09:13:18Z",
+                "owner": "NYUSHCS",
+                "repo": "GAugLLM",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(WWW'24) Can GNN be Good Adapter for LLMs? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775325781,
+                "language": null,
+                "last_commit": "2024-03-21T07:09:40Z",
+                "owner": "zjunet",
+                "repo": "GraphAdapter",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.02) Similarity-based Neighbor Selection for Graph LLMs [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746143317,
+                "language": "Python",
+                "last_commit": "2024-03-14T14:19:23Z",
+                "owner": "ruili33",
+                "repo": "SNS",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(WSDM'25) LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754898788,
+                "language": "Python",
+                "last_commit": "2026-06-05T13:56:14Z",
+                "owner": "QiaoYRan",
+                "repo": "LOGIN",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node Classification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.04) CodeKGC: Code Language Model for Generative Knowledge Graph Construction [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143090423,
+                "language": "Python",
+                "last_commit": "2026-07-13T16:40:58Z",
+                "owner": "zjunlp",
+                "repo": "DeepKE",
+                "stars": 4466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'24) Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714941377,
+                "language": "Python",
+                "last_commit": "2024-03-24T06:38:34Z",
+                "owner": "DataArcTech",
+                "repo": "ToG",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR‘24) Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699108524,
+                "language": "Python",
+                "last_commit": "2025-03-05T11:37:00Z",
+                "owner": "RManLuo",
+                "repo": "reasoning-on-graphs",
+                "stars": 532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ACL'24) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683275918,
+                "language": "Python",
+                "last_commit": "2024-05-22T10:21:17Z",
+                "owner": "wyl-willing",
+                "repo": "MindMap",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(EMNLP'24) Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 780813339,
+                "language": "Python",
+                "last_commit": "2024-08-13T06:56:01Z",
+                "owner": "clear-nus",
+                "repo": "edc",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794245763,
+                "language": "Python",
+                "last_commit": "2025-05-27T06:49:06Z",
+                "owner": "pat-jj",
+                "repo": "KG-FIT",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.01) Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 844445561,
+                "language": "Python",
+                "last_commit": "2025-04-13T05:07:11Z",
+                "owner": "sherlockl01",
+                "repo": "FastToG",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(EMNLP'22) Language Models of Code are Few-Shot Commonsense Learners [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507240498,
+                "language": "Python",
+                "last_commit": "2023-03-20T01:55:19Z",
+                "owner": "reasoning-machines",
+                "repo": "CoCoGen",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ACL'24) Graph Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741612840,
+                "language": "Python",
+                "last_commit": "2024-08-30T07:07:40Z",
+                "owner": "Heidelberg-NLP",
+                "repo": "GraphLanguageModels",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ACL'24) Large Language Models Can Learn Temporal Reasoning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749654911,
+                "language": "Python",
+                "last_commit": "2026-04-11T19:21:17Z",
+                "owner": "xiongsiheng",
+                "repo": "TG-LLM",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749387889,
+                "language": "Python",
+                "last_commit": "2025-10-14T09:29:21Z",
+                "owner": "usail-hkust",
+                "repo": "UrbanKGent",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(AAAI'24) Graph Neural Prompting with Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732266258,
+                "language": null,
+                "last_commit": "2025-02-04T23:09:22Z",
+                "owner": "meettyj",
+                "repo": "GNP",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(SIGIR'23) Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550742248,
+                "language": "Python",
+                "last_commit": "2023-04-05T08:12:16Z",
+                "owner": "zjunlp",
+                "repo": "RAP",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763877748,
+                "language": "Python",
+                "last_commit": "2026-01-04T03:35:01Z",
+                "owner": "jiapuwang",
+                "repo": "LLM-DA",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.04) Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779780246,
+                "language": "Python",
+                "last_commit": "2024-09-03T18:28:40Z",
+                "owner": "xz-liu",
+                "repo": "GraphEval",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812579747,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-14T13:50:30Z",
+                "owner": "MasterAI-EAM",
+                "repo": "Material-Knowledge-Graph",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(TKDE‘23) AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 686583315,
+                "language": "Python",
+                "last_commit": "2025-04-27T06:17:07Z",
+                "owner": "ruizhang-ai",
+                "repo": "AutoAlign",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ACL'24) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 817712974,
+                "language": "Python",
+                "last_commit": "2024-06-28T06:16:34Z",
+                "owner": "microsoft",
+                "repo": "Readi",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge Graph"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'23) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645850300,
+                "language": "Python",
+                "last_commit": "2024-02-22T08:00:29Z",
+                "owner": "zhao-ht",
+                "repo": "GIMLET",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.06) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816666907,
+                "language": "Python",
+                "last_commit": "2024-07-05T11:21:02Z",
+                "owner": "NYUSHCS",
+                "repo": "MolecularGPT",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.07) Can Large Language Models Empower Molecular Property Prediction? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666329323,
+                "language": "Python",
+                "last_commit": "2023-07-14T08:54:26Z",
+                "owner": "ChnQ",
+                "repo": "LLM4Mol",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) LLaMo: Large Language Model-based Molecular Graph Assistant [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880893971,
+                "language": "Python",
+                "last_commit": "2025-02-12T06:21:13Z",
+                "owner": "mlvlab",
+                "repo": "LLaMo",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Molecular Graph"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805115184,
+                "language": "Python",
+                "last_commit": "2026-07-29T00:02:46Z",
+                "owner": "OSU-NLP-Group",
+                "repo": "HippoRAG",
+                "stars": 3950
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.01) A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 876000634,
+                "language": null,
+                "last_commit": "2026-06-02T12:52:38Z",
+                "owner": "DEEP-PolyU",
+                "repo": "Awesome-GraphRAG",
+                "stars": 2599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.03) In-depth Analysis of Graph-based RAG in a Unified Framework [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 886670908,
+                "language": "Python",
+                "last_commit": "2025-07-01T17:41:28Z",
+                "owner": "JayLZhou",
+                "repo": "GraphRAG",
+                "stars": 1537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.01) Retrieval-Augmented Generation with Graphs (GraphRAG) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898106346,
+                "language": null,
+                "last_commit": "2025-03-30T17:41:58Z",
+                "owner": "Graph-RAG",
+                "repo": "GraphRAG",
+                "stars": 596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [paper",
+              "description": "][code][blog]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 709595545,
+                "language": "Python",
+                "last_commit": "2025-03-19T11:36:50Z",
+                "owner": "XiaoxinHe",
+                "repo": "G-Retriever",
+                "stars": 549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.06) GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803968422,
+                "language": "Python",
+                "last_commit": "2024-06-12T10:15:04Z",
+                "owner": "cmavro",
+                "repo": "GNN-RAG",
+                "stars": 444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.02) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 925042132,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:39:03Z",
+                "owner": "RManLuo",
+                "repo": "gfm-rag",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.08) Graph Retrieval-Augmented Generation: A Survey [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855217241,
+                "language": null,
+                "last_commit": "2025-03-21T09:34:57Z",
+                "owner": "pengboci",
+                "repo": "GraphRAG-Survey",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880113534,
+                "language": "Python",
+                "last_commit": "2025-01-27T21:48:39Z",
+                "owner": "Graph-COM",
+                "repo": "SubgraphRAG",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.10) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 868592691,
+                "language": "Python",
+                "last_commit": "2025-05-26T16:29:45Z",
+                "owner": "ulab-uiuc",
+                "repo": "GoR",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.02) BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937696551,
+                "language": "Python",
+                "last_commit": "2025-03-02T10:04:21Z",
+                "owner": "zhao-ht",
+                "repo": "BioMaze",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Retrieval Augmented Generation (GraphRAG)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) Benchmarking Agentic Workflow Generation [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 864950113,
+                "language": "Python",
+                "last_commit": "2025-02-19T07:58:04Z",
+                "owner": "zjunlp",
+                "repo": "WorfBench",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) Can Graph Learning Improve Planning in LLM-based Agents? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 806957636,
+                "language": "Python",
+                "last_commit": "2025-05-11T05:21:06Z",
+                "owner": "WxxShirley",
+                "repo": "GNN4TaskPlan",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICML'24) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751600016,
+                "language": "Python",
+                "last_commit": "2025-03-20T13:27:44Z",
+                "owner": "fangru-lin",
+                "repo": "graph-llm-asynchow-plan",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Planning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) Scaling Large-Language-Model-based Multi-Agent Collaboration [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683892956,
+                "language": "Python",
+                "last_commit": "2026-07-24T08:01:27Z",
+                "owner": "OpenBMB",
+                "repo": "ChatDev",
+                "stars": 34035
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICML'24) GPTSwarm: Language Agents as Optimizable Graphs [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763733771,
+                "language": "Python",
+                "last_commit": "2026-02-05T10:39:09Z",
+                "owner": "metauto-ai",
+                "repo": "GPTSwarm",
+                "stars": 1036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 866016528,
+                "language": "Python",
+                "last_commit": "2025-03-23T13:10:20Z",
+                "owner": "yanweiyue",
+                "repo": "AgentPrune",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.10) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 868449960,
+                "language": "Python",
+                "last_commit": "2024-12-05T07:17:28Z",
+                "owner": "yanweiyue",
+                "repo": "GDesigner",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2025.02) MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 938569863,
+                "language": "Python",
+                "last_commit": "2025-09-02T11:33:21Z",
+                "owner": "ZIKEYUAN",
+                "repo": "MA-GTS",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Agent Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(KDD'25) Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903328502,
+                "language": "Python",
+                "last_commit": "2025-11-06T14:39:59Z",
+                "owner": "zhongjian-zhang",
+                "repo": "LLM4RGNN",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.07) Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 809166755,
+                "language": "Python",
+                "last_commit": "2024-09-29T16:16:16Z",
+                "owner": "KaiGuo20",
+                "repo": "GraphLLM_Robustness",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Robustness"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(arXiv 2024.08) CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [paper",
+              "description": "][code][project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674153903,
+                "language": "Python",
+                "last_commit": "2026-08-17T11:37:38Z",
+                "owner": "modelscope",
+                "repo": "ms-agent",
+                "stars": 4366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.11) Biomedical knowledge graph-enhanced prompt generation for large language models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717297137,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-09T08:31:49Z",
+                "owner": "BaranziniLab",
+                "repo": "KG_RAG",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(WSDM'24) LLMRec: Large Language Models with Graph Augmentation for Recommendation [paper",
+              "description": "][code][blog in Chinese]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708601315,
+                "language": "Python",
+                "last_commit": "2024-06-10T06:39:28Z",
+                "owner": "HKUDS",
+                "repo": "LLMRec",
+                "stars": 537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840044633,
+                "language": "Python",
+                "last_commit": "2025-04-01T07:00:11Z",
+                "owner": "ozyyshr",
+                "repo": "RepoGraph",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(ICLR'25) GraphRouter: A Graph-based Router for LLM Selections [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867744719,
+                "language": "Python",
+                "last_commit": "2025-12-30T11:02:20Z",
+                "owner": "ulab-uiuc",
+                "repo": "GraphRouter",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(arXiv 2023.05) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693308955,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-18T19:50:51Z",
+                "owner": "ZihanChen1995",
+                "repo": "ChatGPT-GNN-StockPredict",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(KDD'24) LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816182428,
+                "language": "Python",
+                "last_commit": "2024-09-10T13:27:47Z",
+                "owner": "wondergo2017",
+                "repo": "LLM4DyG",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(NeurIPS'24) Microstructures and Accuracy of Graph Recall by Large Language Models [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759152161,
+                "language": "Python",
+                "last_commit": "2024-05-20T14:01:41Z",
+                "owner": "Abel0828",
+                "repo": "llm-graph-recall",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Applications"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.04) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-04T10:06:18Z",
-            "owner": "jwzhanggy",
-            "repo": "Graph_Toolformer",
-            "stars": 250
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.10) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-29T00:17:59Z",
-            "owner": "mistyreed63849",
-            "repo": "Graph-LLM",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(KDD'24) GraphWiz: An Instruction-Following Language Model for Graph Problems [paper",
-          "description": "][code][project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-24T13:34:50Z",
-            "owner": "Graph-Reasoner",
-            "repo": "Graph-Reasoning-LLM",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.10) GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-28T07:40:32Z",
-            "owner": "BUPT-GAMMA",
-            "repo": "GraphTeam",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-03-02T12:45:44Z",
-            "owner": "squareRoot3",
-            "repo": "GraphArena",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.10) GCoder: Improving Large Language Model for Generalized Graph Problem Solving [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-02-11T08:39:48Z",
-            "owner": "Graph-Reasoner",
-            "repo": "GCoder",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.10) Are Large-Language Models Graph Algorithmic Reasoners? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-26T02:31:33Z",
-            "owner": "ataylor24",
-            "repo": "MAGMA",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Basic Graph Reasoning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.07) Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-03-10T05:30:05Z",
-            "owner": "CurryTang",
-            "repo": "Graph-LLM",
-            "stars": 319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'24) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-14T02:10:44Z",
-            "owner": "XiaoxinHe",
-            "repo": "TAPE",
-            "stars": 270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.02) GraphEdit: Large Language Models for Graph Structure Learning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-24T12:47:40Z",
-            "owner": "HKUDS",
-            "repo": "GraphEdit",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.02) A Comprehensive Analysis on LLM-based Node Classification Algorithms [paper",
-          "description": "][code] [project papge]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-01T15:06:19Z",
-            "owner": "WxxShirley",
-            "repo": "LLMNodeBed",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(IJCAI'24) Efficient Tuning and Inference for Large Language Models on Textual Graphs [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-24T10:55:20Z",
-            "owner": "ZhuYun97",
-            "repo": "ENGINE",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(TMLR'24) Can LLMs Effectively Leverage Graph Structural Information through Prompts, and Why? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-03T00:20:02Z",
-            "owner": "TRAIS-Lab",
-            "repo": "LLM-Structured-Data",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.06) GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-05T09:13:18Z",
-            "owner": "NYUSHCS",
-            "repo": "GAugLLM",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(WWW'24) Can GNN be Good Adapter for LLMs? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-21T07:09:40Z",
-            "owner": "zjunet",
-            "repo": "GraphAdapter",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.02) Similarity-based Neighbor Selection for Graph LLMs [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-14T14:19:23Z",
-            "owner": "ruili33",
-            "repo": "SNS",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(WSDM'25) LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-05T13:56:14Z",
-            "owner": "QiaoYRan",
-            "repo": "LOGIN",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Node Classification"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.04) CodeKGC: Code Language Model for Generative Knowledge Graph Construction [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-13T16:40:58Z",
-            "owner": "zjunlp",
-            "repo": "DeepKE",
-            "stars": 4464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'24) Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T06:38:34Z",
-            "owner": "DataArcTech",
-            "repo": "ToG",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR‘24) Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-05T11:37:00Z",
-            "owner": "RManLuo",
-            "repo": "reasoning-on-graphs",
-            "stars": 531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ACL'24) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-22T10:21:17Z",
-            "owner": "wyl-willing",
-            "repo": "MindMap",
-            "stars": 386
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(EMNLP'24) Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-13T06:56:01Z",
-            "owner": "clear-nus",
-            "repo": "edc",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-27T06:49:06Z",
-            "owner": "pat-jj",
-            "repo": "KG-FIT",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.01) Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-13T05:07:11Z",
-            "owner": "sherlockl01",
-            "repo": "FastToG",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(EMNLP'22) Language Models of Code are Few-Shot Commonsense Learners [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-20T01:55:19Z",
-            "owner": "reasoning-machines",
-            "repo": "CoCoGen",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ACL'24) Graph Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-30T07:07:40Z",
-            "owner": "Heidelberg-NLP",
-            "repo": "GraphLanguageModels",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ACL'24) Large Language Models Can Learn Temporal Reasoning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-11T19:21:17Z",
-            "owner": "xiongsiheng",
-            "repo": "TG-LLM",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-14T09:29:21Z",
-            "owner": "usail-hkust",
-            "repo": "UrbanKGent",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(AAAI'24) Graph Neural Prompting with Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-02-04T23:09:22Z",
-            "owner": "meettyj",
-            "repo": "GNP",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(SIGIR'23) Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-05T08:12:16Z",
-            "owner": "zjunlp",
-            "repo": "RAP",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-04T03:35:01Z",
-            "owner": "jiapuwang",
-            "repo": "LLM-DA",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.04) Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-03T18:28:40Z",
-            "owner": "xz-liu",
-            "repo": "GraphEval",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T13:50:30Z",
-            "owner": "MasterAI-EAM",
-            "repo": "Material-Knowledge-Graph",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(TKDE‘23) AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-27T06:17:07Z",
-            "owner": "ruizhang-ai",
-            "repo": "AutoAlign",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ACL'24) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-06-28T06:16:34Z",
-            "owner": "microsoft",
-            "repo": "Readi",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Knowledge Graph"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'23) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-22T08:00:29Z",
-            "owner": "zhao-ht",
-            "repo": "GIMLET",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.06) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-05T11:21:02Z",
-            "owner": "NYUSHCS",
-            "repo": "MolecularGPT",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.07) Can Large Language Models Empower Molecular Property Prediction? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-14T08:54:26Z",
-            "owner": "ChnQ",
-            "repo": "LLM4Mol",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) LLaMo: Large Language Model-based Molecular Graph Assistant [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-12T06:21:13Z",
-            "owner": "mlvlab",
-            "repo": "LLaMo",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Molecular Graph"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T00:02:46Z",
-            "owner": "OSU-NLP-Group",
-            "repo": "HippoRAG",
-            "stars": 3949
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.01) A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-02T12:52:38Z",
-            "owner": "DEEP-PolyU",
-            "repo": "Awesome-GraphRAG",
-            "stars": 2594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.03) In-depth Analysis of Graph-based RAG in a Unified Framework [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-01T17:41:28Z",
-            "owner": "JayLZhou",
-            "repo": "GraphRAG",
-            "stars": 1537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.01) Retrieval-Augmented Generation with Graphs (GraphRAG) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-30T17:41:58Z",
-            "owner": "Graph-RAG",
-            "repo": "GraphRAG",
-            "stars": 596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [paper",
-          "description": "][code][blog]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-19T11:36:50Z",
-            "owner": "XiaoxinHe",
-            "repo": "G-Retriever",
-            "stars": 549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.06) GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-12T10:15:04Z",
-            "owner": "cmavro",
-            "repo": "GNN-RAG",
-            "stars": 443
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.02) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T23:56:24Z",
-            "owner": "RManLuo",
-            "repo": "gfm-rag",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.08) Graph Retrieval-Augmented Generation: A Survey [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-21T09:34:57Z",
-            "owner": "pengboci",
-            "repo": "GraphRAG-Survey",
-            "stars": 286
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-27T21:48:39Z",
-            "owner": "Graph-COM",
-            "repo": "SubgraphRAG",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.10) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-26T16:29:45Z",
-            "owner": "ulab-uiuc",
-            "repo": "GoR",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.02) BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-02T10:04:21Z",
-            "owner": "zhao-ht",
-            "repo": "BioMaze",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Graph Retrieval Augmented Generation (GraphRAG)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) Benchmarking Agentic Workflow Generation [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-19T07:58:04Z",
-            "owner": "zjunlp",
-            "repo": "WorfBench",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) Can Graph Learning Improve Planning in LLM-based Agents? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-11T05:21:06Z",
-            "owner": "WxxShirley",
-            "repo": "GNN4TaskPlan",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICML'24) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-20T13:27:44Z",
-            "owner": "fangru-lin",
-            "repo": "graph-llm-asynchow-plan",
-            "stars": 69
-          }
-        }
-      ],
-      "title": "Planning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) Scaling Large-Language-Model-based Multi-Agent Collaboration [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T08:01:27Z",
-            "owner": "OpenBMB",
-            "repo": "ChatDev",
-            "stars": 34015
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICML'24) GPTSwarm: Language Agents as Optimizable Graphs [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-05T10:39:09Z",
-            "owner": "metauto-ai",
-            "repo": "GPTSwarm",
-            "stars": 1036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-23T13:10:20Z",
-            "owner": "yanweiyue",
-            "repo": "AgentPrune",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.10) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-05T07:17:28Z",
-            "owner": "yanweiyue",
-            "repo": "GDesigner",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2025.02) MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-02T11:33:21Z",
-            "owner": "ZIKEYUAN",
-            "repo": "MA-GTS",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Multi-Agent Systems"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(KDD'25) Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-06T14:39:59Z",
-            "owner": "zhongjian-zhang",
-            "repo": "LLM4RGNN",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.07) Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-29T16:16:16Z",
-            "owner": "KaiGuo20",
-            "repo": "GraphLLM_Robustness",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Graph Robustness"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "(arXiv 2024.08) CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases [paper",
-          "description": "][code][project]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T11:37:38Z",
-            "owner": "modelscope",
-            "repo": "ms-agent",
-            "stars": 4364
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.11) Biomedical knowledge graph-enhanced prompt generation for large language models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-11-09T08:31:49Z",
-            "owner": "BaranziniLab",
-            "repo": "KG_RAG",
-            "stars": 944
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(WSDM'24) LLMRec: Large Language Models with Graph Augmentation for Recommendation [paper",
-          "description": "][code][blog in Chinese]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-10T06:39:28Z",
-            "owner": "HKUDS",
-            "repo": "LLMRec",
-            "stars": 537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-01T07:00:11Z",
-            "owner": "ozyyshr",
-            "repo": "RepoGraph",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(ICLR'25) GraphRouter: A Graph-based Router for LLM Selections [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-30T11:02:20Z",
-            "owner": "ulab-uiuc",
-            "repo": "GraphRouter",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(arXiv 2023.05) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-09-18T19:50:51Z",
-            "owner": "ZihanChen1995",
-            "repo": "ChatGPT-GNN-StockPredict",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(KDD'24) LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-10T13:27:47Z",
-            "owner": "wondergo2017",
-            "repo": "LLM4DyG",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24) Microstructures and Accuracy of Graph Recall by Large Language Models [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-20T14:01:41Z",
-            "owner": "Abel0828",
-            "repo": "llm-graph-recall",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1535,6 +1648,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106024057,
             "language": "Python",
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
@@ -1549,6 +1663,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595751641,
             "language": "JavaScript",
             "last_commit": "2024-05-10T10:01:21Z",
             "owner": "varunshenoy",
@@ -1558,20 +1673,10 @@
         }
       ],
       "title": "Resources & Tools"
-    },
-    {
-      "description": "👍 Contributions to this repository are welcome!\nIf you have come across relevant resources, feel free to open an issue or submit a pull request.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:15:35.095Z",
+    "last_updated": "2026-08-19T09:16:29.018Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
     "enhanced_repository": "enhansome/enhansome-Awesome-Graph-LLM",
