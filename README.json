@@ -282,7 +282,7 @@
             "last_commit": "2024-06-25T13:27:00Z",
             "owner": "HKUDS",
             "repo": "GraphGPT",
-            "stars": 835
+            "stars": 834
           }
         },
         {
@@ -566,7 +566,7 @@
                 "last_commit": "2023-09-04T10:06:18Z",
                 "owner": "jwzhanggy",
                 "repo": "Graph_Toolformer",
-                "stars": 250
+                "stars": 249
               }
             },
             {
@@ -678,7 +678,7 @@
                 "last_commit": "2025-03-10T05:30:05Z",
                 "owner": "CurryTang",
                 "repo": "Graph-LLM",
-                "stars": 319
+                "stars": 318
               }
             },
             {
@@ -835,7 +835,7 @@
                 "last_commit": "2026-07-13T16:40:58Z",
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4465
+                "stars": 4468
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2024-03-24T06:38:34Z",
                 "owner": "DataArcTech",
                 "repo": "ToG",
-                "stars": 657
+                "stars": 658
               }
             },
             {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3950
+                "stars": 3954
               }
             },
             {
@@ -1194,7 +1194,7 @@
                 "last_commit": "2026-06-02T12:52:38Z",
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2599
+                "stars": 2601
               }
             },
             {
@@ -1224,7 +1224,7 @@
                 "last_commit": "2025-03-30T17:41:58Z",
                 "owner": "Graph-RAG",
                 "repo": "GraphRAG",
-                "stars": 596
+                "stars": 597
               }
             },
             {
@@ -1254,7 +1254,7 @@
                 "last_commit": "2024-06-12T10:15:04Z",
                 "owner": "cmavro",
                 "repo": "GNN-RAG",
-                "stars": 444
+                "stars": 445
               }
             },
             {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2025-01-27T21:48:39Z",
                 "owner": "Graph-COM",
                 "repo": "SubgraphRAG",
-                "stars": 185
+                "stars": 186
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34042
+                "stars": 34062
               }
             },
             {
@@ -1522,7 +1522,7 @@
                 "last_commit": "2026-08-17T11:37:38Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4366
+                "stars": 4367
               }
             },
             {
@@ -1582,7 +1582,7 @@
                 "last_commit": "2025-12-30T11:02:20Z",
                 "owner": "ulab-uiuc",
                 "repo": "GraphRouter",
-                "stars": 76
+                "stars": 78
               }
             },
             {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24018
+            "stars": 24019
           }
         },
         {
@@ -1668,7 +1668,7 @@
             "last_commit": "2024-05-10T10:01:21Z",
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4425
+            "stars": 4424
           }
         }
       ],
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:08:27.603Z",
+    "last_updated": "2026-08-20T09:17:22.803Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
