@@ -15,7 +15,7 @@
             "last_commit": "2025-03-02T01:40:10Z",
             "owner": "PeterGriffinJin",
             "repo": "Awesome-Language-Model-on-Graphs",
-            "stars": 997
+            "stars": 996
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-03-02T12:45:44Z",
             "owner": "squareRoot3",
             "repo": "GraphArena",
-            "stars": 34
+            "stars": 33
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-03-24T17:26:16Z",
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2831
+            "stars": 2832
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2024-07-05T09:15:34Z",
             "owner": "NYUSHCS",
             "repo": "UniGLM",
-            "stars": 15
+            "stars": 14
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2024-07-05T09:15:34Z",
             "owner": "NYUSHCS",
             "repo": "UniGLM",
-            "stars": 15
+            "stars": 14
           }
         }
       ],
@@ -498,7 +498,7 @@
             "last_commit": "2024-08-30T07:07:40Z",
             "owner": "Heidelberg-NLP",
             "repo": "GraphLanguageModels",
-            "stars": 77
+            "stars": 76
           }
         },
         {
@@ -626,7 +626,7 @@
                 "last_commit": "2025-03-02T12:45:44Z",
                 "owner": "squareRoot3",
                 "repo": "GraphArena",
-                "stars": 34
+                "stars": 33
               }
             },
             {
@@ -678,7 +678,7 @@
                 "last_commit": "2025-03-10T05:30:05Z",
                 "owner": "CurryTang",
                 "repo": "Graph-LLM",
-                "stars": 318
+                "stars": 317
               }
             },
             {
@@ -835,7 +835,7 @@
                 "last_commit": "2026-07-13T16:40:58Z",
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4468
+                "stars": 4470
               }
             },
             {
@@ -910,7 +910,7 @@
                 "last_commit": "2025-05-27T06:49:06Z",
                 "owner": "pat-jj",
                 "repo": "KG-FIT",
-                "stars": 131
+                "stars": 130
               }
             },
             {
@@ -955,7 +955,7 @@
                 "last_commit": "2024-08-30T07:07:40Z",
                 "owner": "Heidelberg-NLP",
                 "repo": "GraphLanguageModels",
-                "stars": 77
+                "stars": 76
               }
             },
             {
@@ -1209,7 +1209,7 @@
                 "last_commit": "2025-07-01T17:41:28Z",
                 "owner": "JayLZhou",
                 "repo": "GraphRAG",
-                "stars": 1537
+                "stars": 1538
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2025-03-20T13:27:44Z",
                 "owner": "fangru-lin",
                 "repo": "graph-llm-asynchow-plan",
-                "stars": 69
+                "stars": 68
               }
             }
           ],
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34062
+                "stars": 34082
               }
             },
             {
@@ -1519,10 +1519,10 @@
                 "archived": false,
                 "id": 674153903,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:37:38Z",
+                "last_commit": "2026-08-21T06:13:07Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4367
+                "stars": 4366
               }
             },
             {
@@ -1552,7 +1552,7 @@
                 "last_commit": "2024-06-10T06:39:28Z",
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -1567,7 +1567,7 @@
                 "last_commit": "2025-04-01T07:00:11Z",
                 "owner": "ozyyshr",
                 "repo": "RepoGraph",
-                "stars": 294
+                "stars": 295
               }
             },
             {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24019
+            "stars": 24020
           }
         },
         {
@@ -1668,7 +1668,7 @@
             "last_commit": "2024-05-10T10:01:21Z",
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4424
+            "stars": 4425
           }
         }
       ],
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:17:22.803Z",
+    "last_updated": "2026-08-21T09:19:42.172Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
