@@ -312,7 +312,7 @@
             "last_commit": "2024-05-18T20:35:26Z",
             "owner": "LechengKong",
             "repo": "OneForAll",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3954
+                "stars": 3956
               }
             },
             {
@@ -1194,7 +1194,7 @@
                 "last_commit": "2026-06-02T12:52:38Z",
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2601
+                "stars": 2604
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34082
+                "stars": 34096
               }
             },
             {
@@ -1418,7 +1418,7 @@
                 "last_commit": "2026-02-05T10:39:09Z",
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1036
+                "stars": 1037
               }
             },
             {
@@ -1522,7 +1522,7 @@
                 "last_commit": "2026-08-21T06:13:07Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4366
+                "stars": 4368
               }
             },
             {
@@ -1537,7 +1537,7 @@
                 "last_commit": "2024-11-09T08:31:49Z",
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 944
+                "stars": 943
               }
             },
             {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:19:42.172Z",
+    "last_updated": "2026-08-22T09:03:32.858Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
