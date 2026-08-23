@@ -15,7 +15,7 @@
             "last_commit": "2025-03-02T01:40:10Z",
             "owner": "PeterGriffinJin",
             "repo": "Awesome-Language-Model-on-Graphs",
-            "stars": 996
+            "stars": 997
           }
         },
         {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3956
+                "stars": 3958
               }
             },
             {
@@ -1194,7 +1194,7 @@
                 "last_commit": "2026-06-02T12:52:38Z",
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2604
+                "stars": 2605
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34096
+                "stars": 34101
               }
             },
             {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24020
+            "stars": 24024
           }
         },
         {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:03:32.858Z",
+    "last_updated": "2026-08-23T09:04:05.282Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
