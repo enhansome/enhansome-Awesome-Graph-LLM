@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34110
+                "stars": 34113
               }
             },
             {
@@ -1418,7 +1418,7 @@
                 "last_commit": "2026-02-05T10:39:09Z",
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -1519,7 +1519,7 @@
                 "archived": false,
                 "id": 674153903,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:13:07Z",
+                "last_commit": "2026-08-24T11:19:36Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4369
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:30:13.224Z",
+    "last_updated": "2026-08-24T14:04:34.606Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
