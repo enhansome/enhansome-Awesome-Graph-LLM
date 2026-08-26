@@ -835,7 +835,7 @@
                 "last_commit": "2026-07-13T16:40:58Z",
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4471
+                "stars": 4472
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2025-03-05T11:37:00Z",
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 532
+                "stars": 533
               }
             },
             {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3963
+                "stars": 3967
               }
             },
             {
@@ -1194,7 +1194,7 @@
                 "last_commit": "2026-06-02T12:52:38Z",
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2610
+                "stars": 2612
               }
             },
             {
@@ -1224,7 +1224,7 @@
                 "last_commit": "2025-03-30T17:41:58Z",
                 "owner": "Graph-RAG",
                 "repo": "GraphRAG",
-                "stars": 597
+                "stars": 596
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34120
+                "stars": 34126
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "last_commit": "2025-03-23T13:10:20Z",
                 "owner": "yanweiyue",
                 "repo": "AgentPrune",
-                "stars": 140
+                "stars": 141
               }
             },
             {
@@ -1519,10 +1519,10 @@
                 "archived": false,
                 "id": 674153903,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:24:47Z",
+                "last_commit": "2026-08-25T14:25:54Z",
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4368
+                "stars": 4369
               }
             },
             {
@@ -1676,7 +1676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:19:39.104Z",
+    "last_updated": "2026-08-26T09:25:02.730Z",
     "original_repository": "XiaoxinHe/Awesome-Graph-LLM",
     "original_repository_id": 649635713,
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
