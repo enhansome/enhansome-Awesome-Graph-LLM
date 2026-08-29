@@ -141,7 +141,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Knowledge Graph
 
-* (*arXiv 2023.04*) CodeKGC: Code Language Model for Generative Knowledge Graph Construction \[[paper](https://arxiv.org/abs/2304.09048)]\[[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC) ⭐ 4,474 | 🐛 0 | 🌐 Python | 📅 2026-07-13]
+* (*arXiv 2023.04*) CodeKGC: Code Language Model for Generative Knowledge Graph Construction \[[paper](https://arxiv.org/abs/2304.09048)]\[[code](https://github.com/zjunlp/DeepKE/tree/main/example/llm/CodeKGC) ⭐ 4,475 | 🐛 0 | 🌐 Python | 📅 2026-07-13]
 * (*ICLR'24*) Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph \[[paper](https://arxiv.org/abs/2307.07697)]\[[code](https://github.com/IDEA-FinAI/ToG) ⭐ 658 | 🐛 29 | 🌐 Python | 📅 2024-03-24]![GitHub Repo stars](https://img.shields.io/github/stars/IDEA-FinAI/ToG?style=social)
 * (*ICLR‘24*) Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning \[[paper](https://arxiv.org/abs/2310.01061)]\[[code](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 533 | 🐛 7 | 🌐 Python | 📅 2025-03-05]![GitHub Repo stars](https://img.shields.io/github/stars/RManLuo/reasoning-on-graphs?style=social)
 * (*ACL'24*) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models \[[paper](https://arxiv.org/abs/2308.09729)]\[[code](https://github.com/wyl-willing/MindMap) ⭐ 386 | 🐛 23 | 🌐 Python | 📅 2024-05-22]![GitHub Repo stars](https://img.shields.io/github/stars/wyl-willing/MindMap?style=social)
@@ -186,7 +186,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Graph Retrieval Augmented Generation (GraphRAG)
 
-* (*NeurIPS'24*) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models \[[paper](https://arxiv.org/abs/2405.14831)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,968 | 🐛 7 | 🌐 Python | 📅 2026-08-23]![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG?style=social)
+* (*NeurIPS'24*) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models \[[paper](https://arxiv.org/abs/2405.14831)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,968 | 🐛 8 | 🌐 Python | 📅 2026-08-23]![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG?style=social)
 * (*arXiv 2025.01*) A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models \[[paper](https://arxiv.org/abs/2501.13958)]\[[code](https://github.com/DEEP-PolyU/Awesome-GraphRAG) ⭐ 2,618 | 🐛 16 | 📅 2026-06-02]![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)
 * (*arXiv 2025.03*) In-depth Analysis of Graph-based RAG in a Unified Framework \[[paper](https://www.arxiv.org/abs/2503.04338)]\[[code](https://github.com/JayLZhou/GraphRAG) ⭐ 1,538 | 🐛 23 | 🌐 Python | 📅 2025-07-01]![GitHub Repo stars](https://img.shields.io/github/stars/JayLZhou/GraphRAG?style=social)
 * (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) \[[paper](https://arxiv.org/pdf/2501.00309)]\[[code](https://github.com/Graph-RAG/GraphRAG/) ⭐ 597 | 🐛 0 | 📅 2025-03-30]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
@@ -212,7 +212,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Multi-Agent Systems
 
-* (*ICLR'25*) Scaling Large-Language-Model-based Multi-Agent Collaboration \[[paper](https://arxiv.org/abs/2406.07155)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,140 | 🐛 68 | 🌐 Python | 📅 2026-07-24]![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
+* (*ICLR'25*) Scaling Large-Language-Model-based Multi-Agent Collaboration \[[paper](https://arxiv.org/abs/2406.07155)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,142 | 🐛 68 | 🌐 Python | 📅 2026-07-24]![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 * (*ICML'24*) GPTSwarm: Language Agents as Optimizable Graphs \[[paper](https://arxiv.org/abs/2402.16823)] \[[code](https://github.com/metauto-ai/GPTSwarm) ⭐ 1,040 | 🐛 4 | 🌐 Python | 📅 2026-02-05]![GitHub Repo stars](https://img.shields.io/github/stars/metauto-ai/GPTSwarm?style=social)
 * (*ICLR'25*) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems \[[paper](https://arxiv.org/abs/2410.02506)] \[[code](https://github.com/yanweiyue/AgentPrune) ⭐ 141 | 🐛 3 | 🌐 Python | 📅 2025-03-23]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/AgentPrune?style=social)
 * (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks \[[paper](https://arxiv.org/abs/2410.11782)] \[[code](https://github.com/yanweiyue/GDesigner) ⭐ 98 | 🐛 6 | 🌐 Python | 📅 2024-12-05]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/GDesigner?style=social)
@@ -270,4 +270,4 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
