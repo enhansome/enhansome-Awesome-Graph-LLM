@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2833,
+            "stars": 2835,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3978,
+                "stars": 3979,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 16,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2626,
+                "stars": 2632,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -2141,7 +2141,7 @@
                 "open_issues": 73,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34193,
+                "stars": 34207,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 27,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4376,
+                "stars": 4375,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2430,7 +2430,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-12-30T11:02:20Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ulab-uiuc",
                 "repo": "GraphRouter",
                 "stars": 80,
@@ -2539,7 +2539,7 @@
             "open_issues": 1321,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24059,
+            "stars": 24062,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:00:29.636Z",
+    "last_updated": "2026-09-04T12:55:52.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
