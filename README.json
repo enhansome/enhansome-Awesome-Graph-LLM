@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4475,
+                "stars": 4477,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1337,7 +1337,7 @@
                 "open_issues": 23,
                 "owner": "wyl-willing",
                 "repo": "MindMap",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3982,
+                "stars": 3984,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 16,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2633,
+                "stars": 2635,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -2141,7 +2141,7 @@
                 "open_issues": 72,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34221,
+                "stars": 34226,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2308,11 +2308,11 @@
                 "id": 674153903,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T02:06:11Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-07T09:29:31Z",
+                "open_issues": 25,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4377,
+                "stars": 4379,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2340,7 +2340,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 944,
+                "stars": 946,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -2539,7 +2539,7 @@
             "open_issues": 1325,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24067,
+            "stars": 24068,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:19:55.970Z",
+    "last_updated": "2026-09-07T14:27:50.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
