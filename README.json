@@ -67,7 +67,7 @@
             "open_issues": 2,
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "fundation-models",
               "graph-algorithms",
@@ -737,7 +737,7 @@
             "open_issues": 7,
             "owner": "lixinustc",
             "repo": "GraphAdapter",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4477,
+                "stars": 4478,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1358,7 +1358,7 @@
                 "open_issues": 0,
                 "owner": "clear-nus",
                 "repo": "edc",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3984,
+                "stars": 3988,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 16,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2635,
+                "stars": 2636,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -1917,7 +1917,7 @@
                 "id": 925042132,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-19T00:39:03Z",
+                "last_commit": "2026-09-08T01:15:11Z",
                 "open_issues": 1,
                 "owner": "RManLuo",
                 "repo": "gfm-rag",
@@ -2141,7 +2141,7 @@
                 "open_issues": 72,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34226,
+                "stars": 34235,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 4,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1041,
+                "stars": 1043,
                 "topics": [
                   "agent",
                   "ai",
@@ -2308,8 +2308,8 @@
                 "id": 674153903,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T09:29:31Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-08T12:52:54Z",
+                "open_issues": 26,
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4379,
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1325,
+            "open_issues": 1327,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24068,
+            "stars": 24069,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:27:50.111Z",
+    "last_updated": "2026-09-08T13:04:38.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
