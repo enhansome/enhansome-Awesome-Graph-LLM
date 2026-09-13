@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2839,
+            "stars": 2840,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3999,
+                "stars": 4000,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1805,7 +1805,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-06-02T12:52:38Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
                 "stars": 2644,
@@ -2141,7 +2141,7 @@
                 "open_issues": 71,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34275,
+                "stars": 34279,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 30,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4383,
+                "stars": 4384,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2539,7 +2539,7 @@
             "open_issues": 1332,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24075,
+            "stars": 24077,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:22:14.996Z",
+    "last_updated": "2026-09-13T13:28:12.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
