@@ -1284,7 +1284,7 @@
                 "open_issues": 29,
                 "owner": "DataArcTech",
                 "repo": "ToG",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "iclr2024",
                   "knowledge-graph",
@@ -1787,7 +1787,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4021,
+                "stars": 4022,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 19,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2657,
+                "stars": 2658,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -1879,7 +1879,7 @@
                 "open_issues": 5,
                 "owner": "XiaoxinHe",
                 "repo": "G-Retriever",
-                "stars": 551,
+                "stars": 552,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 75,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34374,
+                "stars": 34381,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 1346,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24096,
+            "stars": 24097,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2566,7 +2566,7 @@
             "open_issues": 24,
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4424,
+            "stars": 4423,
             "topics": [
               "gpt-3",
               "knowledge-graph"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:51:59.014Z",
+    "last_updated": "2026-09-24T13:47:49.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
