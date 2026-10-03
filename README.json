@@ -1787,7 +1787,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4035,
+                "stars": 4036,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1879,7 +1879,7 @@
                 "open_issues": 5,
                 "owner": "XiaoxinHe",
                 "repo": "G-Retriever",
-                "stars": 555,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 81,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34435,
+                "stars": 34438,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2193,7 +2193,7 @@
                 "open_issues": 3,
                 "owner": "yanweiyue",
                 "repo": "AgentPrune",
-                "stars": 144,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 47,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4406,
+                "stars": 4407,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T17:21:23Z",
-            "open_issues": 1358,
+            "open_issues": 1359,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24104,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:54.521Z",
+    "last_updated": "2026-10-03T13:55:52.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
