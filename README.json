@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "(TKDE'24) Large Language Models on Graphs: A Comprehensive Survey [paper",
-          "description": "][code]",
+          "description": "PeterGriffinJin/Awesome-Language-Model-on-Graphs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "(IJCAI'24) A Survey of Graph Meets Large Language Model: Progress and Future Directions [paper",
-          "description": "][code]",
+          "description": "yhLeeee/Awesome-LLMs-in-Graph-tasks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "(KDD'24) A Survey of Large Language Models for Graphs [paper",
-          "description": "][code]",
+          "description": "HKUDS/Awesome-LLM4Graph-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "(NAACL'21) Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [paper",
-          "description": "][code]",
+          "description": "google-research-datasets/KELM-corpus",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -103,7 +103,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'23) Can Language Models Solve Graph Problems in Natural Language? [paper",
-          "description": "][code]",
+          "description": "Arthur-Heng/NLGraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'24 D&B) GLBench: A Comprehensive Benchmark for Graph with Large Language Models [paper",
-          "description": "][code]",
+          "description": "NineAbyss/GLBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'24 D&B) DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [paper",
-          "description": "][code]",
+          "description": "zjs123/DTGB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'24 D&B) Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [paper",
-          "description": "][code]",
+          "description": "BUPT-GAMMA/ProGraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "(ICLR'25) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [paper",
-          "description": "][code]",
+          "description": "squareRoot3/GraphArena",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -264,7 +264,7 @@
         {
           "node_type": "item",
           "title": "(arXiv 2025.02) Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation [paper",
-          "description": "][code]",
+          "description": "JensenYX/LLM-benchmarking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -285,7 +285,7 @@
         {
           "node_type": "item",
           "title": "(arXiv 2025.05) MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations [paper",
-          "description": "] [code]",
+          "description": "ernlavr/multihal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "(AAAI'24) Graph of Thoughts: Solving Elaborate Problems with Large Language Models [paper",
-          "description": "][code]",
+          "description": "spcl/graph-of-thoughts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,7 +341,7 @@
         {
           "node_type": "item",
           "title": "(EMNLP'23) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [paper",
-          "description": "][code]",
+          "description": "RUCAIBox/StructGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,7 +362,7 @@
         {
           "node_type": "item",
           "title": "(ACL'24) Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs [paper",
-          "description": "][code]",
+          "description": "PeterGriffinJin/Graph-CoT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -388,7 +388,7 @@
         {
           "node_type": "item",
           "title": "(arXiv 2023.05) PiVe: Prompting with Iterative Verification Improving Graph-based Generative Capability of LLMs [paper",
-          "description": "][code]",
+          "description": "Jiuzhouh/PiVe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -442,7 +442,7 @@
         {
           "node_type": "item",
           "title": "(EACL'24') Natural Language is All a Graph Needs [paper",
-          "description": "][code]",
+          "description": "agiresearch/InstructGLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -463,7 +463,7 @@
         {
           "node_type": "item",
           "title": "(ICLR'24) One for All: Towards Training One Graph Model for All Classification Tasks [paper",
-          "description": "][code]",
+          "description": "LechengKong/OneForAll",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -484,7 +484,7 @@
         {
           "node_type": "item",
           "title": "(arXiv 2024.08) AnyGraph: Graph Foundation Model in the Wild [paper",
-          "description": "][code]",
+          "description": "HKUDS/AnyGraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -511,7 +511,7 @@
         {
           "node_type": "item",
           "title": "(ICML'24) LLaGA: Large Language and Graph Assistant [paper",
-          "description": "][code]",
+          "description": "VITA-Group/LLaGA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -532,7 +532,7 @@
         {
           "node_type": "item",
           "title": "(KDD'24) HiGPT: Heterogeneous Graph Language Model [paper",
-          "description": "][code]",
+          "description": "HKUDS/HiGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -561,7 +561,7 @@
         {
           "node_type": "item",
           "title": "(WWW'24) GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks [paper",
-          "description": "][code]",
+          "description": "alibaba/GraphTranslator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -592,7 +592,7 @@
         {
           "node_type": "item",
           "title": "(ACL'24) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [paper",
-          "description": "][code]",
+          "description": "wjn1996/InstructGraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -613,7 +613,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'24) LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings [paper",
-          "description": "][code]",
+          "description": "W-rudder/TEA-GLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -634,7 +634,7 @@
         {
           "node_type": "item",
           "title": "(ICLR'25) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [paper",
-          "description": "][code]",
+          "description": "JiaruiFeng/GOFA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -655,7 +655,7 @@
         {
           "node_type": "item",
           "title": "(KDD'24) ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs [paper",
-          "description": "][code]",
+          "description": "NineAbyss/ZeroG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -676,7 +676,7 @@
         {
           "node_type": "item",
           "title": "(WSDM '25) UniGLM: Training One Unified Language Model for Text-Attributed Graph Embedding [paper",
-          "description": "][code]",
+          "description": "NYUSHCS/UniGLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -697,7 +697,7 @@
         {
           "node_type": "item",
           "title": "(arXiv 2024.06) UniGLM: Training One Unified Language Model for Text-Attributed Graphs [paper",
-          "description": "][code]",
+          "description": "NYUSHCS/UniGLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -724,7 +724,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'23) GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph [paper",
-          "description": "][code]",
+          "description": "lixinustc/GraphAdapter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -745,7 +745,7 @@
         {
           "node_type": "item",
           "title": "(ACL 2024) Graph Language Models [paper",
-          "description": "][code]",
+          "description": "Heidelberg-NLP/GraphLanguageModels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -766,7 +766,7 @@
         {
           "node_type": "item",
           "title": "(arXiv 2023.10) Multimodal Graph Learning for Generative Tasks [paper",
-          "description": "][code]",
+          "description": "minjiyoon/MMGL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -812,7 +812,7 @@
         {
           "node_type": "item",
           "title": "(NeurIPS'24) GraphVis: Boosting LLMs with Visual Knowledge Graph Integration [paper",
-          "description": "][code]",
+          "description": "yihedeng9/GraphVis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -841,7 +841,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.04) Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [paper",
-              "description": "][code]",
+              "description": "jwzhanggy/Graph_Toolformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -862,7 +862,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.10) GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [paper",
-              "description": "][code]",
+              "description": "mistyreed63849/Graph-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.10) GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration [paper",
-              "description": "] [code]",
+              "description": "BUPT-GAMMA/GraphTeam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -925,7 +925,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) GraphArena: Evaluating and Exploring Large Language Models on Graph Computation [paper",
-              "description": "] [code]",
+              "description": "squareRoot3/GraphArena",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -946,7 +946,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.10) GCoder: Improving Large Language Model for Generalized Graph Problem Solving [paper",
-              "description": "] [code]",
+              "description": "Graph-Reasoner/GCoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -967,7 +967,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.10) Are Large-Language Models Graph Algorithmic Reasoners? [paper",
-              "description": "][code]",
+              "description": "ataylor24/MAGMA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1000,7 +1000,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.07) Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [paper",
-              "description": "][code]",
+              "description": "CurryTang/Graph-LLM",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1021,7 +1021,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'24) Explanations as Features: LLM-Based Features for Text-Attributed Graphs [paper",
-              "description": "][code]",
+              "description": "XiaoxinHe/TAPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1042,7 +1042,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.02) GraphEdit: Large Language Models for Graph Structure Learning [paper",
-              "description": "][code]",
+              "description": "HKUDS/GraphEdit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1096,7 +1096,7 @@
             {
               "node_type": "item",
               "title": "(IJCAI'24) Efficient Tuning and Inference for Large Language Models on Textual Graphs [paper",
-              "description": "][code]",
+              "description": "ZhuYun97/ENGINE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1117,7 +1117,7 @@
             {
               "node_type": "item",
               "title": "(TMLR'24) Can LLMs Effectively Leverage Graph Structural Information through Prompts, and Why? [paper",
-              "description": "][code]",
+              "description": "TRAIS-Lab/LLM-Structured-Data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1138,7 +1138,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.06) GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models [paper",
-              "description": "][code]",
+              "description": "NYUSHCS/GAugLLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "(WWW'24) Can GNN be Good Adapter for LLMs? [paper",
-              "description": "][code]",
+              "description": "zjunet/GraphAdapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.02) Similarity-based Neighbor Selection for Graph LLMs [paper",
-              "description": "][code]",
+              "description": "ruili33/SNS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1201,7 +1201,7 @@
             {
               "node_type": "item",
               "title": "(WSDM'25) LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework [paper",
-              "description": "][code]",
+              "description": "QiaoYRan/LOGIN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1229,7 +1229,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.04) CodeKGC: Code Language Model for Generative Knowledge Graph Construction [paper",
-              "description": "][code]",
+              "description": "zjunlp/DeepKE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,7 +1271,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'24) Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [paper",
-              "description": "][code]",
+              "description": "DataArcTech/ToG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1296,7 +1296,7 @@
             {
               "node_type": "item",
               "title": "(ICLR‘24) Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning [paper",
-              "description": "][code]",
+              "description": "RManLuo/reasoning-on-graphs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1324,7 +1324,7 @@
             {
               "node_type": "item",
               "title": "(ACL'24) MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [paper",
-              "description": "][code]",
+              "description": "wyl-willing/MindMap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1345,7 +1345,7 @@
             {
               "node_type": "item",
               "title": "(EMNLP'24) Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction [paper",
-              "description": "][code]",
+              "description": "clear-nus/edc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge [paper",
-              "description": "][code]",
+              "description": "pat-jj/KG-FIT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1391,7 +1391,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.01) Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph [paper",
-              "description": "][code]",
+              "description": "sherlockl01/FastToG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1412,7 +1412,7 @@
             {
               "node_type": "item",
               "title": "(EMNLP'22) Language Models of Code are Few-Shot Commonsense Learners [paper",
-              "description": "][code]",
+              "description": "reasoning-machines/CoCoGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1439,7 +1439,7 @@
             {
               "node_type": "item",
               "title": "(ACL'24) Graph Language Models [paper",
-              "description": "][code]",
+              "description": "Heidelberg-NLP/GraphLanguageModels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1460,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "(ACL'24) Large Language Models Can Learn Temporal Reasoning [paper",
-              "description": "][code]",
+              "description": "xiongsiheng/TG-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1481,7 +1481,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [paper",
-              "description": "][code]",
+              "description": "usail-hkust/UrbanKGent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1502,7 +1502,7 @@
             {
               "node_type": "item",
               "title": "(AAAI'24) Graph Neural Prompting with Large Language Models [paper",
-              "description": "][code]",
+              "description": "meettyj/GNP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1523,7 +1523,7 @@
             {
               "node_type": "item",
               "title": "(SIGIR'23) Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction [paper",
-              "description": "][code]",
+              "description": "zjunlp/RAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1565,7 +1565,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning [paper",
-              "description": "][code]",
+              "description": "jiapuwang/LLM-DA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1586,7 +1586,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.04) Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs [paper",
-              "description": "][code]",
+              "description": "xz-liu/GraphEval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1607,7 +1607,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model [paper",
-              "description": "][code]",
+              "description": "MasterAI-EAM/Material-Knowledge-Graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1628,7 +1628,7 @@
             {
               "node_type": "item",
               "title": "(TKDE‘23) AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models [paper",
-              "description": "][code]",
+              "description": "ruizhang-ai/AutoAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1649,7 +1649,7 @@
             {
               "node_type": "item",
               "title": "(ACL'24) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [paper",
-              "description": "][code]",
+              "description": "microsoft/Readi",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1677,7 +1677,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'23) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [paper",
-              "description": "][code]",
+              "description": "zhao-ht/GIMLET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1698,7 +1698,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.06) MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [paper",
-              "description": "][code]",
+              "description": "NYUSHCS/MolecularGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1719,7 +1719,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.07) Can Large Language Models Empower Molecular Property Prediction? [paper",
-              "description": "][code]",
+              "description": "ChnQ/LLM4Mol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1740,7 +1740,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) LLaMo: Large Language Model-based Molecular Graph Assistant [paper",
-              "description": "][code]",
+              "description": "mlvlab/LLaMo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1774,7 +1774,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [paper",
-              "description": "][code]",
+              "description": "OSU-NLP-Group/HippoRAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1787,7 +1787,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4033,
+                "stars": 4035,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1795,7 +1795,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.01) A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models [paper",
-              "description": "][code]",
+              "description": "DEEP-PolyU/Awesome-GraphRAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.03) In-depth Analysis of Graph-based RAG in a Unified Framework [paper",
-              "description": "][code]",
+              "description": "JayLZhou/GraphRAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.01) Retrieval-Augmented Generation with Graphs (GraphRAG) [paper",
-              "description": "][code]",
+              "description": "Graph-RAG/GraphRAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.06) GNN-RAG: Graph Neural Retrieval for Large Language Modeling Reasoning [paper",
-              "description": "][code]",
+              "description": "cmavro/GNN-RAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1908,7 +1908,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.02) GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation [paper",
-              "description": "] [code]",
+              "description": "RManLuo/gfm-rag",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1937,7 +1937,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.08) Graph Retrieval-Augmented Generation: A Survey [paper",
-              "description": "][code]",
+              "description": "pengboci/GraphRAG-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1958,7 +1958,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation [paper",
-              "description": "][code]",
+              "description": "Graph-COM/SubgraphRAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1989,7 +1989,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.10) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [paper",
-              "description": "] [code]",
+              "description": "ulab-uiuc/GoR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2010,7 +2010,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.02) BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning [paper",
-              "description": "][code]",
+              "description": "zhao-ht/BioMaze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2038,7 +2038,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) Benchmarking Agentic Workflow Generation [paper",
-              "description": "] [code]",
+              "description": "zjunlp/WorfBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2072,7 +2072,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) Can Graph Learning Improve Planning in LLM-based Agents? [paper",
-              "description": "][code]",
+              "description": "WxxShirley/GNN4TaskPlan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2100,7 +2100,7 @@
             {
               "node_type": "item",
               "title": "(ICML'24) Graph-enhanced Large Language Models in Asynchronous Plan Reasoning [paper",
-              "description": "][code]",
+              "description": "fangru-lin/graph-llm-asynchow-plan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2128,7 +2128,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) Scaling Large-Language-Model-based Multi-Agent Collaboration [paper",
-              "description": "] [code]",
+              "description": "OpenBMB/ChatDev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2149,7 +2149,7 @@
             {
               "node_type": "item",
               "title": "(ICML'24) GPTSwarm: Language Agents as Optimizable Graphs [paper",
-              "description": "] [code]",
+              "description": "metauto-ai/GPTSwarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2180,7 +2180,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [paper",
-              "description": "] [code]",
+              "description": "yanweiyue/AgentPrune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2201,7 +2201,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.10) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [paper",
-              "description": "] [code]",
+              "description": "yanweiyue/GDesigner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2222,7 +2222,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2025.02) MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications [paper",
-              "description": "][code]",
+              "description": "ZIKEYUAN/MA-GTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2250,7 +2250,7 @@
             {
               "node_type": "item",
               "title": "(KDD'25) Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [paper",
-              "description": "][code]",
+              "description": "zhongjian-zhang/LLM4RGNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2271,7 +2271,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2024.07) Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness [paper",
-              "description": "][code]",
+              "description": "KaiGuo20/GraphLLM_Robustness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2327,7 +2327,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.11) Biomedical knowledge graph-enhanced prompt generation for large language models [paper",
-              "description": "][code]",
+              "description": "BaranziniLab/KG_RAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2399,7 +2399,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph [paper",
-              "description": "] [code]",
+              "description": "ozyyshr/RepoGraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2420,7 +2420,7 @@
             {
               "node_type": "item",
               "title": "(ICLR'25) GraphRouter: A Graph-based Router for LLM Selections [paper",
-              "description": "][code]",
+              "description": "ulab-uiuc/GraphRouter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2441,7 +2441,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2023.05) ChatGPT Informed Graph Neural Network for Stock Movement Prediction [paper",
-              "description": "][code]",
+              "description": "ZihanChen1995/ChatGPT-GNN-StockPredict",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2467,7 +2467,7 @@
             {
               "node_type": "item",
               "title": "(KDD'24) LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [paper",
-              "description": "][code]",
+              "description": "wondergo2017/LLM4DyG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2494,7 +2494,7 @@
             {
               "node_type": "item",
               "title": "(NeurIPS'24) Microstructures and Accuracy of Graph Recall by Large Language Models [paper",
-              "description": "][code]",
+              "description": "Abel0828/llm-graph-recall",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2553,7 +2553,7 @@
         {
           "node_type": "item",
           "title": "GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3",
-          "description": null,
+          "description": "varunshenoy/GraphGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2566,7 +2566,7 @@
             "open_issues": 24,
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4423,
+            "stars": 4422,
             "topics": [
               "gpt-3",
               "knowledge-graph"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:01:23.323Z",
+    "last_updated": "2026-10-03T04:25:54.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
@@ -2591,7 +2591,7 @@
       "open_issues": 7,
       "owner": "XiaoxinHe",
       "repo": "Awesome-Graph-LLM",
-      "stars": 2448,
+      "stars": 2449,
       "topics": []
     },
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
