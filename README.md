@@ -72,7 +72,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 * (*SIGIR'24*) GraphGPT: Graph Instruction Tuning for Large Language Models \[[paper](https://arxiv.org/abs/2310.13023)]\[[code](https://github.com/HKUDS/GraphGPT) ⭐ 829 | 🐛 28 | 🌐 Python | 📅 2024-06-25]\[[blog in Chinese](https://mp.weixin.qq.com/s/rvKTFdCk719Q6hT09Caglw)]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/GraphGPT?style=social)
 * (*EACL'24'*) Natural Language is All a Graph Needs \[[paper](https://arxiv.org/abs/2308.07134)]\[[code](https://github.com/agiresearch/InstructGLM) ⭐ 274 | 🐛 2 | 🌐 Python | 📅 2025-03-13]![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/InstructGLM?style=social)
-* (*ICLR'24*) One for All: Towards Training One Graph Model for All Classification Tasks \[[paper](https://arxiv.org/abs/2310.00149)]\[[code](https://github.com/LechengKong/OneForAll) ⭐ 256 | 🐛 2 | 🌐 Python | 📅 2024-05-18]![GitHub Repo stars](https://img.shields.io/github/stars/LechengKong/OneForAll?style=social)
+* (*ICLR'24*) One for All: Towards Training One Graph Model for All Classification Tasks \[[paper](https://arxiv.org/abs/2310.00149)]\[[code](https://github.com/LechengKong/OneForAll) ⭐ 257 | 🐛 2 | 🌐 Python | 📅 2024-05-18]![GitHub Repo stars](https://img.shields.io/github/stars/LechengKong/OneForAll?style=social)
 * (*arXiv 2024.08*) AnyGraph: Graph Foundation Model in the Wild \[[paper](https://arxiv.org/abs/2408.10700)]\[[code](https://github.com/HKUDS/AnyGraph) ⭐ 228 | 🐛 7 | 🌐 Python | 📅 2024-09-19]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/AnyGraph?style=social)
 * (*ICML'24*) LLaGA: Large Language and Graph Assistant \[[paper](https://arxiv.org/abs/2402.08170)]\[[code](https://github.com/VITA-Group/LLaGA) ⭐ 165 | 🐛 13 | 🌐 Python | 📅 2024-09-04]![GitHub Repo stars](https://img.shields.io/github/stars/VITA-Group/LLaGA?style=social)
 * (*KDD'24*) HiGPT: Heterogeneous Graph Language Model \[[paper](https://arxiv.org/abs/2402.16024)]\[[code](https://github.com/HKUDS/HiGPT) ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2024-06-05]![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/HiGPT?style=social)
@@ -186,7 +186,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Graph Retrieval Augmented Generation (GraphRAG)
 
-* (*NeurIPS'24*) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models \[[paper](https://arxiv.org/abs/2405.14831)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,040 | 🐛 7 | 🌐 Python | 📅 2026-10-01]![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG?style=social)
+* (*NeurIPS'24*) HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models \[[paper](https://arxiv.org/abs/2405.14831)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,041 | 🐛 7 | 🌐 Python | 📅 2026-10-01]![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG?style=social)
 * (*arXiv 2025.01*) A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models \[[paper](https://arxiv.org/abs/2501.13958)]\[[code](https://github.com/DEEP-PolyU/Awesome-GraphRAG) ⭐ 2,664 | 🐛 20 | 📅 2026-06-02]![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)
 * (*arXiv 2025.03*) In-depth Analysis of Graph-based RAG in a Unified Framework \[[paper](https://www.arxiv.org/abs/2503.04338)]\[[code](https://github.com/JayLZhou/GraphRAG) ⭐ 1,541 | 🐛 23 | 🌐 Python | 📅 2025-07-01]![GitHub Repo stars](https://img.shields.io/github/stars/JayLZhou/GraphRAG?style=social)
 * (*arXiv 2025.01*) Retrieval-Augmented Generation with Graphs (GraphRAG) \[[paper](https://arxiv.org/pdf/2501.00309)]\[[code](https://github.com/Graph-RAG/GraphRAG/) ⭐ 599 | 🐛 0 | 📅 2025-03-30]![GitHub Repo stars](https://img.shields.io/github/stars/Graph-RAG/GraphRAG?style=social)
@@ -212,7 +212,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ### Multi-Agent Systems
 
-* (*ICLR'25*) Scaling Large-Language-Model-based Multi-Agent Collaboration \[[paper](https://arxiv.org/abs/2406.07155)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,451 | 🐛 82 | 🌐 Python | 📅 2026-07-24]![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
+* (*ICLR'25*) Scaling Large-Language-Model-based Multi-Agent Collaboration \[[paper](https://arxiv.org/abs/2406.07155)] \[[code](https://github.com/OpenBMB/ChatDev) ⭐ 34,454 | 🐛 82 | 🌐 Python | 📅 2026-07-24]![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 * (*ICML'24*) GPTSwarm: Language Agents as Optimizable Graphs \[[paper](https://arxiv.org/abs/2402.16823)] \[[code](https://github.com/metauto-ai/GPTSwarm) ⭐ 1,052 | 🐛 4 | 🌐 Python | 📅 2026-02-05]![GitHub Repo stars](https://img.shields.io/github/stars/metauto-ai/GPTSwarm?style=social)
 * (*ICLR'25*) Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems \[[paper](https://arxiv.org/abs/2410.02506)] \[[code](https://github.com/yanweiyue/AgentPrune) ⭐ 145 | 🐛 3 | 🌐 Python | 📅 2025-03-23]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/AgentPrune?style=social)
 * (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks \[[paper](https://arxiv.org/abs/2410.11782)] \[[code](https://github.com/yanweiyue/GDesigner) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2024-12-05]![GitHub Repo stars](https://img.shields.io/github/stars/yanweiyue/GDesigner?style=social)
@@ -249,7 +249,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ## Resources & Tools
 
-* [PyG: GNNs + LLMs](https://github.com/pyg-team/pytorch_geometric/tree/master/examples/llm) ⭐ 24,109 | 🐛 1,361 | 🌐 Python | 📅 2026-10-06: Examples for Co-training LLMs and GNNs
+* [PyG: GNNs + LLMs](https://github.com/pyg-team/pytorch_geometric/tree/master/examples/llm) ⭐ 24,109 | 🐛 1,362 | 🌐 Python | 📅 2026-10-06: Examples for Co-training LLMs and GNNs
 * [GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3](https://github.com/varunshenoy/GraphGPT) ⭐ 4,420 | 🐛 24 | 🌐 JavaScript | 📅 2024-05-10
 * [GraphML: Graph markup language](https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/graphml.pdf). An XML-based file format for graphs.
 * [GML: Graph modelling language](https://networkx.org/documentation/stable/reference/readwrite/gml.html). Read graphs in GML format.
