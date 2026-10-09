@@ -64,10 +64,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-03-15T07:50:50Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "fundation-models",
               "graph-algorithms",
@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2842,
+            "stars": 2843,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -428,7 +428,7 @@
             "open_issues": 28,
             "owner": "HKUDS",
             "repo": "GraphGPT",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "graph-learning",
               "graph-neural-networks",
@@ -497,7 +497,7 @@
             "open_issues": 7,
             "owner": "HKUDS",
             "repo": "AnyGraph",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "graph-fundation-models",
               "graph-learning",
@@ -545,7 +545,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "HiGPT",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "fundation-models",
               "graph-learning",
@@ -1055,7 +1055,7 @@
                 "open_issues": 3,
                 "owner": "HKUDS",
                 "repo": "GraphEdit",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "graph-learning",
                   "graph-neural-networks",
@@ -1787,7 +1787,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4048,
+                "stars": 4052,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 19,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2668,
+                "stars": 2669,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -1858,7 +1858,7 @@
                 "open_issues": 0,
                 "owner": "Graph-RAG",
                 "repo": "GraphRAG",
-                "stars": 600,
+                "stars": 601,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2085,7 +2085,7 @@
                 "open_issues": 0,
                 "owner": "WxxShirley",
                 "repo": "GNN4TaskPlan",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "autonomous-agents",
                   "graph-learning",
@@ -2141,7 +2141,7 @@
                 "open_issues": 82,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34466,
+                "stars": 34472,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2309,10 +2309,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T13:18:11Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4408,
+                "stars": 4409,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2382,7 +2382,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1366,
+            "open_issues": 1368,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24111,
+            "stars": 24112,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:52:10.327Z",
+    "last_updated": "2026-10-09T15:34:23.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
