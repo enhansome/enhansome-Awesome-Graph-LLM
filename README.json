@@ -1787,7 +1787,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4057,
+                "stars": 4059,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2051,7 +2051,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "WorfBench",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "agent",
                   "agent-planning",
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-24T08:01:27Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34492,
+                "stars": 34506,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4410,
+                "stars": 4409,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2566,7 +2566,7 @@
             "open_issues": 24,
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4420,
+            "stars": 4421,
             "topics": [
               "gpt-3",
               "knowledge-graph"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:13:28.650Z",
+    "last_updated": "2026-10-13T16:27:24.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
