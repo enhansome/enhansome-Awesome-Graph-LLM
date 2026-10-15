@@ -64,7 +64,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-03-15T07:50:50Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
             "stars": 369,
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4484,
+                "stars": 4485,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -2141,7 +2141,7 @@
                 "open_issues": 83,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34514,
+                "stars": 34521,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 7,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": [
                   "agent",
                   "ai",
@@ -2309,7 +2309,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T13:18:11Z",
-                "open_issues": 43,
+                "open_issues": 45,
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4412,
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1376,
+            "open_issues": 1377,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24119,
+            "stars": 24122,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:03:19.592Z",
+    "last_updated": "2026-10-15T13:42:17.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
