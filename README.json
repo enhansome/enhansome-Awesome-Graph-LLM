@@ -476,7 +476,7 @@
             "open_issues": 2,
             "owner": "LechengKong",
             "repo": "OneForAll",
-            "stars": 257,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1404,7 +1404,7 @@
                 "open_issues": 4,
                 "owner": "sherlockl01",
                 "repo": "FastToG",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1787,7 +1787,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4065,
+                "stars": 4068,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2137,11 +2137,11 @@
                 "id": 683892956,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T06:27:26Z",
-                "open_issues": 83,
+                "last_commit": "2026-10-16T15:55:30Z",
+                "open_issues": 82,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34529,
+                "stars": 34537,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2309,7 +2309,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T13:18:11Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4413,
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1377,
+            "open_issues": 1379,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24124,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:32:19.942Z",
+    "last_updated": "2026-10-17T12:25:30.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
