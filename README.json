@@ -137,7 +137,7 @@
             "open_issues": 0,
             "owner": "WxxShirley",
             "repo": "LLMNodeBed",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "gnn",
               "graph-learning",
@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -1082,7 +1082,7 @@
                 "open_issues": 0,
                 "owner": "WxxShirley",
                 "repo": "LLMNodeBed",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "gnn",
                   "graph-learning",
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4485,
+                "stars": 4486,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1787,7 +1787,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4070,
+                "stars": 4071,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 18,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2674,
+                "stars": 2675,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -1837,7 +1837,7 @@
                 "open_issues": 23,
                 "owner": "JayLZhou",
                 "repo": "GraphRAG",
-                "stars": 1542,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T15:55:30Z",
-                "open_issues": 84,
+                "open_issues": 86,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34544,
+                "stars": 34551,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2308,8 +2308,8 @@
                 "id": 674153903,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T13:18:11Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-19T00:42:26Z",
+                "open_issues": 44,
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4416,
@@ -2412,7 +2412,7 @@
                 "open_issues": 12,
                 "owner": "ozyyshr",
                 "repo": "RepoGraph",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1380,
+            "open_issues": 1379,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24122,
+            "stars": 24127,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:47:45.242Z",
+    "last_updated": "2026-10-19T15:52:28.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
@@ -2591,7 +2591,7 @@
       "open_issues": 7,
       "owner": "XiaoxinHe",
       "repo": "Awesome-Graph-LLM",
-      "stars": 2450,
+      "stars": 2451,
       "topics": []
     },
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
