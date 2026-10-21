@@ -354,7 +354,7 @@
             "open_issues": 0,
             "owner": "RUCAIBox",
             "repo": "StructGPT",
-            "stars": 414,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4486,
+                "stars": 4487,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1784,10 +1784,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T21:03:49Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4074,
+                "stars": 4073,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1879,7 +1879,7 @@
                 "open_issues": 5,
                 "owner": "XiaoxinHe",
                 "repo": "G-Retriever",
-                "stars": 557,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1921,7 +1921,7 @@
                 "open_issues": 2,
                 "owner": "RManLuo",
                 "repo": "gfm-rag",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "gpt",
                   "graphrag",
@@ -1950,7 +1950,7 @@
                 "open_issues": 0,
                 "owner": "pengboci",
                 "repo": "GraphRAG-Survey",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 86,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34556,
+                "stars": 34560,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 7,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": [
                   "agent",
                   "ai",
@@ -2340,7 +2340,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 947,
+                "stars": 946,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1379,
+            "open_issues": 1380,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24128,
@@ -2566,7 +2566,7 @@
             "open_issues": 24,
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4422,
+            "stars": 4424,
             "topics": [
               "gpt-3",
               "knowledge-graph"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:51:26.570Z",
+    "last_updated": "2026-10-21T14:08:29.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
