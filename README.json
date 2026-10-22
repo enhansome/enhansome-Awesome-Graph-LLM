@@ -171,6 +171,27 @@
         },
         {
           "node_type": "item",
+          "title": "(NeurIPS'24 D&B) DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [paper",
+          "description": "zjs123/DTGB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Comprehensive Benchmark Dataset for Dynamic Text-Attributed Graphs",
+            "homepage": null,
+            "id": 807820928,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-11-06T13:54:38Z",
+            "open_issues": 2,
+            "owner": "zjs123",
+            "repo": "DTGB",
+            "stars": 53,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:25:18.079Z"
+        },
+        {
+          "node_type": "item",
           "title": "(NeurIPS'24) TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs [pdf",
           "description": "][code][datasets]",
           "children": [],
@@ -195,27 +216,6 @@
               "large-language-model",
               "teg"
             ]
-          },
-          "first_seen": "2026-08-28T20:25:18.079Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(NeurIPS'24 D&B) DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [paper",
-          "description": "zjs123/DTGB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Comprehensive Benchmark Dataset for Dynamic Text-Attributed Graphs",
-            "homepage": null,
-            "id": 807820928,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-11-06T13:54:38Z",
-            "open_issues": 2,
-            "owner": "zjs123",
-            "repo": "DTGB",
-            "stars": 52,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
         },
@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2844,
+            "stars": 2845,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4487,
+                "stars": 4488,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1284,7 +1284,7 @@
                 "open_issues": 29,
                 "owner": "DataArcTech",
                 "repo": "ToG",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "iclr2024",
                   "knowledge-graph",
@@ -1309,7 +1309,7 @@
                 "open_issues": 8,
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "kg",
                   "knowledge",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4073,
+                "stars": 4076,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 18,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2678,
+                "stars": 2679,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -2141,7 +2141,7 @@
                 "open_issues": 86,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34560,
+                "stars": 34568,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2340,7 +2340,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -2412,7 +2412,7 @@
                 "open_issues": 12,
                 "owner": "ozyyshr",
                 "repo": "RepoGraph",
-                "stars": 306,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2535,8 +2535,8 @@
             "id": 106024057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1380,
+            "last_commit": "2026-10-21T23:53:00Z",
+            "open_issues": 1378,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24128,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:08:29.829Z",
+    "last_updated": "2026-10-22T14:06:38.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
