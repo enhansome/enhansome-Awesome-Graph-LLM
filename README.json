@@ -476,7 +476,7 @@
             "open_issues": 2,
             "owner": "LechengKong",
             "repo": "OneForAll",
-            "stars": 258,
+            "stars": 259,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1309,7 +1309,7 @@
                 "open_issues": 8,
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "kg",
                   "knowledge",
@@ -1358,7 +1358,7 @@
                 "open_issues": 0,
                 "owner": "clear-nus",
                 "repo": "edc",
-                "stars": 198,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4076,
+                "stars": 4077,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 18,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2679,
+                "stars": 2680,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -2141,7 +2141,7 @@
                 "open_issues": 86,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34568,
+                "stars": 34578,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 7,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1055,
+                "stars": 1057,
                 "topics": [
                   "agent",
                   "ai",
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-21T23:53:00Z",
-            "open_issues": 1378,
+            "open_issues": 1379,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24128,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:06:38.882Z",
+    "last_updated": "2026-10-23T13:49:42.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
