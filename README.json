@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2846,
+            "stars": 2847,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -375,7 +375,7 @@
             "open_issues": 2,
             "owner": "PeterGriffinJin",
             "repo": "Graph-CoT",
-            "stars": 309,
+            "stars": 310,
             "topics": [
               "agent",
               "graph",
@@ -497,7 +497,7 @@
             "open_issues": 18,
             "owner": "HKUDS",
             "repo": "AnyGraph",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "graph-fundation-models",
               "graph-learning",
@@ -1034,7 +1034,7 @@
                 "open_issues": 4,
                 "owner": "XiaoxinHe",
                 "repo": "TAPE",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4489,
+                "stars": 4488,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4077,
+                "stars": 4081,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 18,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2681,
+                "stars": 2680,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -1879,7 +1879,7 @@
                 "open_issues": 5,
                 "owner": "XiaoxinHe",
                 "repo": "G-Retriever",
-                "stars": 558,
+                "stars": 557,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1900,7 +1900,7 @@
                 "open_issues": 15,
                 "owner": "cmavro",
                 "repo": "GNN-RAG",
-                "stars": 448,
+                "stars": 447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 89,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34590,
+                "stars": 34597,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2159,7 +2159,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-05T10:39:09Z",
-                "open_issues": 7,
+                "open_issues": 4,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
                 "stars": 1061,
@@ -2309,7 +2309,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T08:30:31Z",
-                "open_issues": 48,
+                "open_issues": 50,
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4417,
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-21T23:53:00Z",
-            "open_issues": 1381,
+            "open_issues": 1382,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24129,
+            "stars": 24128,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:28:46.339Z",
+    "last_updated": "2026-10-27T14:55:39.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
