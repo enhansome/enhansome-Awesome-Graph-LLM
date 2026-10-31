@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "PeterGriffinJin",
             "repo": "Awesome-Language-Model-on-Graphs",
-            "stars": 999,
+            "stars": 1000,
             "topics": [
               "awesome-resources",
               "generative-ai",
@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2849,
+            "stars": 2850,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4487,
+                "stars": 4488,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4083,
+                "stars": 4085,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1921,7 +1921,7 @@
                 "open_issues": 2,
                 "owner": "RManLuo",
                 "repo": "gfm-rag",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "gpt",
                   "graphrag",
@@ -1950,7 +1950,7 @@
                 "open_issues": 0,
                 "owner": "pengboci",
                 "repo": "GraphRAG-Survey",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T12:36:43Z",
-                "open_issues": 94,
+                "open_issues": 96,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34619,
+                "stars": 34631,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 4,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1062,
+                "stars": 1064,
                 "topics": [
                   "agent",
                   "ai",
@@ -2309,10 +2309,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T04:06:23Z",
-                "open_issues": 60,
+                "open_issues": 63,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4419,
+                "stars": 4421,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-21T23:53:00Z",
-            "open_issues": 1382,
+            "open_issues": 1384,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24127,
+            "stars": 24130,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:20:58.566Z",
+    "last_updated": "2026-10-31T14:46:16.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
