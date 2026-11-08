@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4489,
+                "stars": 4488,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4104,
+                "stars": 4105,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1879,7 +1879,7 @@
                 "open_issues": 5,
                 "owner": "XiaoxinHe",
                 "repo": "G-Retriever",
-                "stars": 557,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1921,7 +1921,7 @@
                 "open_issues": 2,
                 "owner": "RManLuo",
                 "repo": "gfm-rag",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "gpt",
                   "graphrag",
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T07:37:13Z",
-                "open_issues": 107,
+                "open_issues": 110,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34703,
+                "stars": 34706,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2263,7 +2263,7 @@
                 "open_issues": 0,
                 "owner": "zhongjian-zhang",
                 "repo": "LLM4RGNN",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 71,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4424,
+                "stars": 4423,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2412,7 +2412,7 @@
                 "open_issues": 12,
                 "owner": "ozyyshr",
                 "repo": "RepoGraph",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1384,
+            "open_issues": 1385,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24138,
+            "stars": 24139,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:10:45.670Z",
+    "last_updated": "2026-11-08T15:36:01.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
@@ -2591,7 +2591,7 @@
       "open_issues": 7,
       "owner": "XiaoxinHe",
       "repo": "Awesome-Graph-LLM",
-      "stars": 2452,
+      "stars": 2451,
       "topics": []
     },
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
