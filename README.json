@@ -67,7 +67,7 @@
             "open_issues": 4,
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
-            "stars": 369,
+            "stars": 368,
             "topics": [
               "fundation-models",
               "graph-algorithms",
@@ -1787,7 +1787,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4107,
+                "stars": 4110,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 110,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34711,
+                "stars": 34719,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 4,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "agent",
                   "ai",
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1385,
+            "open_issues": 1392,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24138,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:10:55.859Z",
+    "last_updated": "2026-11-10T16:37:11.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
