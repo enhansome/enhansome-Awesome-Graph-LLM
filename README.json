@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "PeterGriffinJin",
             "repo": "Awesome-Language-Model-on-Graphs",
-            "stars": 1000,
+            "stars": 1002,
             "topics": [
               "awesome-resources",
               "generative-ai",
@@ -758,7 +758,7 @@
             "open_issues": 0,
             "owner": "Heidelberg-NLP",
             "repo": "GraphLanguageModels",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1452,7 +1452,7 @@
                 "open_issues": 0,
                 "owner": "Heidelberg-NLP",
                 "repo": "GraphLanguageModels",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1784,10 +1784,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T21:03:49Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4122,
+                "stars": 4125,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2051,7 +2051,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "WorfBench",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "agent",
                   "agent-planning",
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T07:37:13Z",
-                "open_issues": 117,
+                "open_issues": 122,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34742,
+                "stars": 34748,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2162,7 +2162,7 @@
                 "open_issues": 4,
                 "owner": "metauto-ai",
                 "repo": "GPTSwarm",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "agent",
                   "ai",
@@ -2312,7 +2312,7 @@
                 "open_issues": 71,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4426,
+                "stars": 4427,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2340,7 +2340,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 949,
+                "stars": 950,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -2433,7 +2433,7 @@
                 "open_issues": 1,
                 "owner": "ulab-uiuc",
                 "repo": "GraphRouter",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:20:48.011Z",
+    "last_updated": "2026-11-15T15:53:24.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
