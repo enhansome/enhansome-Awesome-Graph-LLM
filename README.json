@@ -1358,7 +1358,7 @@
                 "open_issues": 0,
                 "owner": "clear-nus",
                 "repo": "edc",
-                "stars": 197,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1787,7 +1787,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4126,
+                "stars": 4130,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2113,7 +2113,7 @@
                 "open_issues": 0,
                 "owner": "fangru-lin",
                 "repo": "graph-llm-asynchow-plan",
-                "stars": 71,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 124,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34756,
+                "stars": 34766,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2214,7 +2214,7 @@
                 "open_issues": 6,
                 "owner": "yanweiyue",
                 "repo": "GDesigner",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2412,7 +2412,7 @@
                 "open_issues": 12,
                 "owner": "ozyyshr",
                 "repo": "RepoGraph",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1404,
+            "open_issues": 1406,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24146,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:56:41.757Z",
+    "last_updated": "2026-11-17T17:54:05.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
