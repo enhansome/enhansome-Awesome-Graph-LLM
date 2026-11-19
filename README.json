@@ -46,7 +46,7 @@
             "open_issues": 1,
             "owner": "yhLeeee",
             "repo": "Awesome-LLMs-in-Graph-tasks",
-            "stars": 657,
+            "stars": 656,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:18.079Z"
@@ -67,7 +67,7 @@
             "open_issues": 4,
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "fundation-models",
               "graph-algorithms",
@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "spcl",
             "repo": "graph-of-thoughts",
-            "stars": 2850,
+            "stars": 2849,
             "topics": [
               "graph-of-thoughts",
               "graph-structures",
@@ -896,7 +896,7 @@
                 "open_issues": 1,
                 "owner": "Graph-Reasoner",
                 "repo": "Graph-Reasoning-LLM",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1284,7 +1284,7 @@
                 "open_issues": 29,
                 "owner": "DataArcTech",
                 "repo": "ToG",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "iclr2024",
                   "knowledge-graph",
@@ -1787,7 +1787,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4133,
+                "stars": 4136,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1808,7 +1808,7 @@
                 "open_issues": 20,
                 "owner": "DEEP-PolyU",
                 "repo": "Awesome-GraphRAG",
-                "stars": 2687,
+                "stars": 2689,
                 "topics": [
                   "graphrag",
                   "graphrag-paper",
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T07:37:13Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34801,
+                "stars": 34817,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 73,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4427,
+                "stars": 4428,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2566,7 +2566,7 @@
             "open_issues": 24,
             "owner": "varunshenoy",
             "repo": "GraphGPT",
-            "stars": 4423,
+            "stars": 4422,
             "topics": [
               "gpt-3",
               "knowledge-graph"
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:34:17.851Z",
+    "last_updated": "2026-11-19T17:40:19.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
@@ -2591,7 +2591,7 @@
       "open_issues": 7,
       "owner": "XiaoxinHe",
       "repo": "Awesome-Graph-LLM",
-      "stars": 2452,
+      "stars": 2451,
       "topics": []
     },
     "original_repository_sha": "1c15295842858c68b626e2de0e1aa26cda065920",
