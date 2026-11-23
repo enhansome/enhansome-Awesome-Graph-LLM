@@ -64,7 +64,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-03-15T07:50:50Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "HKUDS",
             "repo": "Awesome-LLM4Graph-Papers",
             "stars": 367,
@@ -494,10 +494,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-09-19T06:58:25Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "HKUDS",
             "repo": "AnyGraph",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "graph-fundation-models",
               "graph-learning",
@@ -1787,7 +1787,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4138,
+                "stars": 4140,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1971,7 +1971,7 @@
                 "open_issues": 5,
                 "owner": "Graph-COM",
                 "repo": "SubgraphRAG",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "gpt-4o",
                   "graphrag",
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T07:37:13Z",
-                "open_issues": 132,
+                "open_issues": 135,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34844,
+                "stars": 34858,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2308,11 +2308,11 @@
                 "id": 674153903,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T15:38:46Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-23T13:55:58Z",
+                "open_issues": 78,
                 "owner": "modelscope",
                 "repo": "ms-agent",
-                "stars": 4430,
+                "stars": 4431,
                 "topics": [
                   "agentic-insight",
                   "agentic-search",
@@ -2536,10 +2536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1411,
+            "open_issues": 1412,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24150,
+            "stars": 24149,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:39:00.449Z",
+    "last_updated": "2026-11-23T20:34:53.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
