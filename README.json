@@ -1242,7 +1242,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "DeepKE",
-                "stars": 4486,
+                "stars": 4484,
                 "topics": [
                   "attribute-extraction",
                   "chinese",
@@ -1787,7 +1787,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4142,
+                "stars": 4145,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -1879,7 +1879,7 @@
                 "open_issues": 5,
                 "owner": "XiaoxinHe",
                 "repo": "G-Retriever",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2113,7 +2113,7 @@
                 "open_issues": 0,
                 "owner": "fangru-lin",
                 "repo": "graph-llm-asynchow-plan",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 139,
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34887,
+                "stars": 34892,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:18.079Z"
@@ -2309,7 +2309,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T11:39:44Z",
-                "open_issues": 87,
+                "open_issues": 89,
                 "owner": "modelscope",
                 "repo": "ms-agent",
                 "stars": 4432,
@@ -2536,7 +2536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1413,
+            "open_issues": 1414,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24157,
@@ -2579,7 +2579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:38:57.750Z",
+    "last_updated": "2026-11-27T18:27:29.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about Graph-Related LLMs.",
